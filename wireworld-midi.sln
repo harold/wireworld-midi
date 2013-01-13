@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "wireworld-midi", "wireworld-midi\wireworld-midi.fsproj", "{063D5DEA-AE39-4D7B-B436-EDED60348F86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{063D5DEA-AE39-4D7B-B436-EDED60348F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063D5DEA-AE39-4D7B-B436-EDED60348F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063D5DEA-AE39-4D7B-B436-EDED60348F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063D5DEA-AE39-4D7B-B436-EDED60348F86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
